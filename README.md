@@ -2,6 +2,8 @@
 
 MetaSwapper - Crypto Trading Bot Powered by MetaMask Swap API
 
+![image](https://github.com/blankey1337/MetaSwapper/assets/42594751/1f2b3d6a-a592-4997-aa37-6811d81ae61c)
+
 This project was developed during the ConsenSys CypherPunk 2023 internal hackathon.
 This is a proof of concept, use it at your own risk.
 This bot is not ready for production use - it requires fine tuning and better memory management. By default, MetaSwapper is configured to trade on Polygon mainnet.
