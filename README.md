@@ -9,9 +9,13 @@ This bot is not ready for production use - it requires fine tuning and better me
 ## Features
 
 ⚖️ Fetches balance using "get_balance" command
+
 💹 Swaps tokens using "swap_tokens" command
+
 ♻️ Automatically selects the best route based on gas cost
+
 💸 Can also send eth using "send_eth" command (disabled by default)
+
 
 ## What you'll need
 
