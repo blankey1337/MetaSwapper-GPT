@@ -2,16 +2,16 @@
 
 MetaSwapper - Crypto Trading Bot Powered by MetaMask Swap API
 
-This project was developed during the MetaMask CypherPunk 2023 internal hackathon.
+This project was developed during the ConsenSys CypherPunk 2023 internal hackathon.
 This is a proof of concept, use it at your own risk.
-This bot is not ready for production use - it requires fine tuninmg and better memory management. By default, MetaSwapper is configured to trade on Polygon mainnet.
+This bot is not ready for production use - it requires fine tuning and better memory management. By default, MetaSwapper is configured to trade on Polygon mainnet.
 
 ## Features
 
-- Fetches balance using "get_balance" command
-- Swaps tokens using "swap_tokens" command
-- Automatically selects the best route based on gas cost
-- Can also send eth using "send_eth" command (disabled by default)
+⚖️ Fetches balance using "get_balance" command
+💹 Swaps tokens using "swap_tokens" command
+♻️ Automatically selects the best route based on gas cost
+💸 Can also send eth using "send_eth" command (disabled by default)
 
 ## What you'll need
 
