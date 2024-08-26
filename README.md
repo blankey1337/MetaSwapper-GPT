@@ -1,6 +1,6 @@
-# blankey1337/MetaSwapper
+# blankey1337/MetaSwapper-GPT
 
-MetaSwapper - Crypto Trading Bot Powered by MetaMask Swap API
+MetaSwapper GPT - Crypto Trading Bot Powered by MetaMask Swap API and AutoGPT
 
 ![image](https://github.com/blankey1337/MetaSwapper/assets/42594751/1f2b3d6a-a592-4997-aa37-6811d81ae61c)
 
